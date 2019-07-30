@@ -1,0 +1,11 @@
+markdown:         kramdown
+highlighter:      rouge
+permalink:        /:title/
+include:          ["_pages"]
+url:              'https://codingdojobrno.cz'
+baseurl:          '/'
+
+title:            'Lukáš Bednařík'
+author:
+  name:           'Lukáš Bednařík'
+  email:          'lukas@lukasbednarik.cz'
