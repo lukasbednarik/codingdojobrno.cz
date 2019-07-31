@@ -2,12 +2,12 @@ body {
   background-color: #fff;
   padding:50px;
   font: 14px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-  color:#595959;
+  color:#636e72;
   font-weight:400;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color:#222;
+  color:#2d3436;
   margin:0 0 20px;
 }
 
@@ -29,17 +29,15 @@ header h1 {
 }
 
 h2 {
-  color:#393939;
   font-weight: 500;
 }
 
 h3, h4, h5, h6 {
-  color:#494949;
   font-weight: 500;
 }
 
 a {
-  color:#ff8308;
+  color: #d63031;
   text-decoration:none;
 }
 
@@ -49,13 +47,13 @@ a:hover {
 
 a small {
   font-size:11px;
-  color:#777;
+  color:#636e72;
   margin-top:-0.3em;
   display:block;
 }
 
 a:hover small {
-  color:#777;
+  color:#636e72;
 }
 
 .wrapper {
@@ -95,12 +93,12 @@ th, td {
 }
 
 dt {
-  color:#444;
+  color:#2d3436;
   font-weight:500;
 }
 
 th {
-  color:#444;
+  color:#2d3436;
 }
 
 img {
@@ -158,8 +156,8 @@ header ul a:active {
 }
 
 strong {
-  color:#222;
-  font-weight:500;
+  color: #00b894;
+  font-weight: bold;
 }
 
 header ul li + li + li {
@@ -170,7 +168,7 @@ header ul li + li + li {
 header ul a strong {
   font-size:14px;
   display:block;
-  color:#222;
+  color:#2d3436;
 }
 
 section {

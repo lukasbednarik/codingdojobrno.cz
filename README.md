@@ -1,3 +1,3 @@
 # Coding Dojo Brno
 
-[Coding Dojo Brno](https://codingdojobrno.cz)
+Visit [Coding Dojo Brno](https://codingdojobrno.cz).
