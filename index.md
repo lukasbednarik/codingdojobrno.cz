@@ -9,7 +9,7 @@ Cílem je Coding Dojo pořádat jednou až dvakrát měsíčně. Uvídíme, jak 
 
 | | Kdy | Kde | Registrace  |
 | | --- | --- | --------- |
-| **#1** | **5. září 2019** | [Impact Hub Brno](https://www.hubbrno.cz/) | Registrovat |
+| **#1** | **září 2019** | [Impact Hub Brno](https://www.hubbrno.cz/) | Registrovat |
 
 # Co mi Coding Dojo přinese
 
