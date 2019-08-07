@@ -14,7 +14,7 @@ Cílem je Coding Dojo pořádat jednou až dvakrát měsíčně. Uvídíme, jak 
 # Co mi Coding Dojo přinese
 
 Práci kvalitního vývojáře se nelze naučit čtením knih nebo studiem kódu.
-Některé věci vyžadují cvik a programování je jednou z nich.
+Některé věci chtějí cvik a programování je jednou z nich.
 
 Na Coding Dojo se naučíte
 - **programování** a případně i nový programovací jazyk (Nic neumíte? Jsou tu senioři, kteří vše vysvětlí
