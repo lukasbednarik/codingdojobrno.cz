@@ -5,11 +5,11 @@ title: Domů
 
 # Chystané termíny
 
-Cílem je Coding Dojo pořádat jednou až dvakrát měsíčně. Uvídíme, jak se nám to podaří.
+Cílem je Coding Dojo pořádat jednou měsíčně. Uvídíme, jak se nám to podaří.
 
-| | Kdy | Kde | Registrace  |
-| | --- | --- | --------- |
-| **#1** | **září 2019** | [Impact Hub Brno](https://www.hubbrno.cz/) | Registrovat |
+| Kdy                               | Kde     | Registrace  |
+| --------------------------------- | ------- | ----------- |
+| **19. září 2019**<br /> **17:00 -- 18:20** | Sky Room v [Impact Hub Brno](https://www.hubbrno.cz/) | Zatím se nelze registrovat |
 
 # Co mi Coding Dojo přinese
 
