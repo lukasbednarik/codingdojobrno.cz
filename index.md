@@ -9,7 +9,7 @@ Cílem je Coding Dojo pořádat jednou měsíčně. Uvídíme, jak se nám to po
 
 | Kdy                               | Kde     | Registrace  |
 | --------------------------------- | ------- | ----------- |
-| **19. září 2019**<br /> **17:00 -- 18:20** | Sky Room v [Impact Hub Brno](https://www.hubbrno.cz/) | Zatím se nelze registrovat |
+| **16. září 2019**<br /> **17:00 -- 18:20** | Sky Room v [Impact Hub Brno](https://www.hubbrno.cz/) | Zatím se nelze registrovat |
 
 # Co mi Coding Dojo přinese
 
