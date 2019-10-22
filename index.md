@@ -115,3 +115,7 @@ A toto jsou ty aktuální:
 - [The Coding Dojo Handbook](https://leanpub.com/codingdojohandbook)
   je nepřekonatelná Coding Dojo příručka. Z&nbsp;této knihy jako moderátor vycházím.
 - [CoderDojo](https://coderdojocesko.cz/) je celosvětové hnutí, které učí mladé lidi programovat.
+
+Agilní hnutí v ČR:
+- [Agile wiki](https://agilewiki.cz)
+- [Agilní kalendář](https://agilnikalendar.cz)
